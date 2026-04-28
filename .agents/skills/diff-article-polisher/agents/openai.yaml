@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diff Article Polisher"
+  short_description: "Polish Diff Markdown while preserving voice"
+  default_prompt: "Use $diff-article-polisher to polish this Markdown article in place while preserving my meaning and voice."
